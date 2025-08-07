@@ -7,6 +7,7 @@ public class MyFirstGit {
 		
 		System.out.println("Hello Git");
 		System.out.println("hi");
+		System.out.println("Wel");
 
 	}
 
